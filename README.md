@@ -1,4 +1,4 @@
-# PPOL563 - Data Visaulization for Data Science
+# PPOL563 - Data Visualization for Data Science
 ### Georgetown University - McCourt School of Public Policy
 #### Professor Taylor Corbett
 Example code for PPOL563 - Fall 2019
